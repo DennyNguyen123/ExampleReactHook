@@ -1,6 +1,3 @@
-echo "Switch to branch master"
-git checkout master
-
 echo "Building app..."
 npm run build
 
